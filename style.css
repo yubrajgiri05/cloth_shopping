@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.con{
+    width: 1200px;
+    margin: auto;
+    
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top{
+    background: rgb(167, 141, 145);
+    line-height: 50px;
+}
+header{
+    padding: 20px 0;
+}
+.bg1{
+    background: url(https://sangalotech.com/html/03/images/bg-1.jpg);
+    height: 450px;
+}
+.bleft{
+    width: 50%;
+    text-align: center;
+    font-size: 28px;
+}
+.bright{
+    width: 50%;
+}
+.bg2{
+    padding: 30px;
+    text-align: center;
+}
+.bg3{
+    background:gray;
+    height: 400px;
+}
+.box{
+    border: 1px black solid;
+    height: 140px;
+    width: auto;
+    padding: 10px;
+}
+.a{
+    text-align: left;
+}
+.fle{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.foot{
+    background: #E9E2D8;
+    height: 300px;
+    padding: 40px 0;
+}
+footer{
+    padding-top: 80px;
+    text-align: center;
+}
